@@ -4,6 +4,8 @@
 
 ### Clustering
 
+[Robust Auto-Weighted Multi-View Clustering](https://www.ijcai.org/proceedings/2018/0367.pdf), IJCAI 2018
+
 [From ensemble clustering to multi-view clustering](https://dl.acm.org/citation.cfm?id=3172285), IJCAI 2017
 
 [Multiple medoids based multi-view relational fuzzy clustering with minimax optimization](https://oar.a-star.edu.sg/jspui/handle/123456789/2145), IJCAI 2017
